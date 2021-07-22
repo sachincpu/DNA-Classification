@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/sachincpu/DNA-Classification.git 
    ```
 2. Run the DNA Classification code.ipynb file
-  ```sh
+   ```sh
    python DNA Classification code.ipynb
    ```
                                  
