@@ -3,7 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans">
     <img src="assets/img/logo.gif" alt="Logo" >
   </a>
   <!-- INTRODUCTION -->
@@ -23,19 +22,19 @@ In this project, We have designed and developed a machine learning model for DNA
   * sklearn
   * pandas
   * numpy
-  *matplotlib
+  * matplotlib
   
 ```
 ---
 
 ## Algorithms Used
 
-> * KNeighborsClassifier
-> * GaussianProcessClassifier
-> * DecisionTreeClassifier
-> * RandomForestClassifier
-> * MLPClassifier
-> * AdaBoostClassifier
+> * KNeighbors Classifier
+> * GaussianProcess Classifier
+> * DecisionTree Classifier
+> * RandomForest Classifier
+> * MLP Classifier
+> * AdaBoost Classifier
 > * Gaussian Naive Bayes
 > * Support Vector Machine
 
@@ -50,12 +49,13 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kanishksh4rma/DNA-Sequence-Classifier.git
+   git clone https://github.com/sachincpu/DNA-Classification.git 
    ```
 2. Run the DNA Classification code.ipynb file
+  ```sh
+   python DNA Classification code.ipynb
+   ```
                                  
 ---
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://sachincpu.github.io/DNA-Classification)
-
-{"mode":"full","isActive":false}
