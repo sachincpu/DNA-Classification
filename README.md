@@ -59,3 +59,5 @@ To get a local copy up and running follow these simple steps.
 ---
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://sachincpu.github.io/DNA-Classification)
+
+Fork
